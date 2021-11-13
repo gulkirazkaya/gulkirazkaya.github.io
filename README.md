@@ -1,1 +1,1 @@
-[direct](gulkirazkaya.github.io/)
+[direct](https://gulkirazkaya.github.io/)
