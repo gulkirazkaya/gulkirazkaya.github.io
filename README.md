@@ -1,1 +1,1 @@
-# gulkirazkaya.github.io
+(direct)[gulkirazkaya.github.io]
